@@ -79,8 +79,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/Greatbotmaker/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Greatbotmaker">
 </a>
 <a href="https://github.com/Greatbotmaker?tab=followers"><img src="https://img.shields.io/github/followers/Greatbotmaker?label=Followers&style=social" alt="GitHub Badge"></a>
 
